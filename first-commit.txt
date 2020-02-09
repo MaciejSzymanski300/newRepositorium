@@ -7,5 +7,3 @@ dsa
 Druga zmiana 22222222222
 
 Trzecia zmiana 333333333333
-
-Dodanie nowej funkcjonalnosci
